@@ -1,0 +1,6 @@
+module Pods_MureedR {
+  umbrella header "Pods-MureedR-umbrella.h"
+
+  export *
+  module * { export * }
+}

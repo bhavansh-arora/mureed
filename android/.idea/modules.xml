@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MureedR.iml" filepath="$PROJECT_DIR$/.idea/modules/MureedR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/680305433/MureedR.RNAdMob.iml" filepath="$PROJECT_DIR$/.idea/modules/680305433/MureedR.RNAdMob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MureedR.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MureedR.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1996921960/MureedR.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1996921960/MureedR.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-637876075/MureedR.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-637876075/MureedR.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1102135539/MureedR.react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/1102135539/MureedR.react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/201485355/MureedR.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/201485355/MureedR.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2062065339/MureedR.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-2062065339/MureedR.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/434260450/MureedR.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/434260450/MureedR.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1054211572/MureedR.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1054211572/MureedR.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2094527933/MureedR.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2094527933/MureedR.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-818925830/MureedR.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-818925830/MureedR.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1363833291/MureedR.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1363833291/MureedR.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/371753891/MureedR.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/371753891/MureedR.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-483609145/MureedR.react-native-track-player.iml" filepath="$PROJECT_DIR$/.idea/modules/-483609145/MureedR.react-native-track-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1683548468/MureedR.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1683548468/MureedR.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
